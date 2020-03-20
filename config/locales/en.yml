@@ -261,7 +261,7 @@ en:
   landing:
     about: "%{href} to manage your online classes"
     welcome: Welcome to maarvin.
-    video: Watch our tutorial on using Greenlight
+    video: ""
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.
   language_default: Default (browser language)
